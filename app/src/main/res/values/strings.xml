@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">APIDemo2.0</string>
+    <string name="api_demo">API Demo</string>
+    <string name="id">Id</string>
+    <string name="title">Title</string>
+    <string name="thumbnail">Thumbnail</string>
+    <string name="id_data">Id Data</string>
+</resources>
